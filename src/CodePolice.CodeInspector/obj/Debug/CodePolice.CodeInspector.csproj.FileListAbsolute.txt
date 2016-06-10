@@ -1,0 +1,9 @@
+C:\Sandbox\CodePolice.CodeInspector\bin\Debug\CodePolice.CodeInspector.dll
+C:\Sandbox\CodePolice.CodeInspector\bin\Debug\CodePolice.CodeInspector.pdb
+C:\Sandbox\CodePolice.CodeInspector\obj\Debug\CodePolice.CodeInspector.csprojResolveAssemblyReference.cache
+C:\Sandbox\CodePolice.CodeInspector\obj\Debug\CodePolice.CodeInspector.dll
+C:\Sandbox\CodePolice.CodeInspector\obj\Debug\CodePolice.CodeInspector.pdb
+C:\Sandbox\CodePolice\CodePolice.CodeInspector\bin\Debug\CodePolice.CodeInspector.dll
+C:\Sandbox\CodePolice\CodePolice.CodeInspector\bin\Debug\CodePolice.CodeInspector.pdb
+C:\Sandbox\CodePolice\CodePolice.CodeInspector\obj\Debug\CodePolice.CodeInspector.dll
+C:\Sandbox\CodePolice\CodePolice.CodeInspector\obj\Debug\CodePolice.CodeInspector.pdb

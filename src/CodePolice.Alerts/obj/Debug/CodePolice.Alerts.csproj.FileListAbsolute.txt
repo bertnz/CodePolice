@@ -1,0 +1,7 @@
+C:\Sandbox\CodePolice\CodePolice.Alerts\bin\Debug\CodePolice.Alerts.dll
+C:\Sandbox\CodePolice\CodePolice.Alerts\bin\Debug\CodePolice.Alerts.pdb
+C:\Sandbox\CodePolice\CodePolice.Alerts\bin\Debug\CodePolice.CodeInspector.dll
+C:\Sandbox\CodePolice\CodePolice.Alerts\bin\Debug\CodePolice.CodeInspector.pdb
+C:\Sandbox\CodePolice\CodePolice.Alerts\obj\Debug\CodePolice.Alerts.csprojResolveAssemblyReference.cache
+C:\Sandbox\CodePolice\CodePolice.Alerts\obj\Debug\CodePolice.Alerts.dll
+C:\Sandbox\CodePolice\CodePolice.Alerts\obj\Debug\CodePolice.Alerts.pdb

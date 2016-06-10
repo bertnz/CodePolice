@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodePolice.Alerts", "CodePolice.Alerts\CodePolice.Alerts.csproj", "{83CF5F7A-9686-46E6-B70E-FD1AB1342B63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodePolice", "CodePolice\CodePolice.csproj", "{1B02D853-0B8A-469A-9E23-0A650FEFB8BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodePolice.CodeInspector", "CodePolice.CodeInspector\CodePolice.CodeInspector.csproj", "{CC38906C-F164-4F9A-82F7-8D7380AE2F42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83CF5F7A-9686-46E6-B70E-FD1AB1342B63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83CF5F7A-9686-46E6-B70E-FD1AB1342B63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83CF5F7A-9686-46E6-B70E-FD1AB1342B63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83CF5F7A-9686-46E6-B70E-FD1AB1342B63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B02D853-0B8A-469A-9E23-0A650FEFB8BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B02D853-0B8A-469A-9E23-0A650FEFB8BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B02D853-0B8A-469A-9E23-0A650FEFB8BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B02D853-0B8A-469A-9E23-0A650FEFB8BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC38906C-F164-4F9A-82F7-8D7380AE2F42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC38906C-F164-4F9A-82F7-8D7380AE2F42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC38906C-F164-4F9A-82F7-8D7380AE2F42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC38906C-F164-4F9A-82F7-8D7380AE2F42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
